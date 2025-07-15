@@ -6,6 +6,11 @@
 From AI to Social, Launchpads to Wallets, and Trading — build solana mobile apps.
 
 
+## Contact
+
+If you have any question, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+
+
 ## Key Protocol Integrations
 
 1. **Swaps:**  
@@ -31,17 +36,6 @@ From AI to Social, Launchpads to Wallets, and Trading — build solana mobile ap
 
 8. **Miscellaneous Tools:**  
    [Jito Bundles](https://www.jito.network/) and [Helius](https://www.helius.dev/) for transaction landing
-
----
-
-## 📱 App Features
-
-| Feature                   | Description                                                                                                                                                                                                                                                                   |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 👛 **Wallet Integration** | • Multiple wallet connection methods<br>• Embedded wallet support via Privy, Dynamic, and Turnkey<br>• External wallet connections via Solana Mobile MWA<br>• Transaction signing and management<br>                                                                          |
-| 👥 **Social Features**    | • User profiles and following system<br>• Social feed with posts and interactions<br>• Community engagement features<br>• NFT display and management<br>• IPFS storage for metadata                                                                                           |
-| 🎨 **UI/UX**              | • Modern, responsive design<br>• Tab-based navigation<br>• Interactive charts and visualizations<br>• Elegant loading states and error handling<br>• Platform-specific optimizations                                                                                          |
-| 🖥️ **Backend Features**   | • RESTful API for token operations<br>• Social data storage and retrieval<br>• Token market creation and management<br>• Token swapping via Jupiter and PumpSwap<br>• Token launching via different launchpads like Pump, Raydium, and Meteora <br>• Image upload and storage |
 
 ---
 
